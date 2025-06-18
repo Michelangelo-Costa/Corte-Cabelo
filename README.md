@@ -64,4 +64,6 @@ Editar
 
 1. Clone o repositório:
    ```bash
+   git clone https://github.com/michelangelo-costa/Corte-Cabelo.git
+   cd Corte-Cabelo
 
